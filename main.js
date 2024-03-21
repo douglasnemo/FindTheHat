@@ -105,8 +105,3 @@ myField.playGame();
     ['░', '^', '░'],
 ]);
 myField.playGame(); */
-
-
-/* solution
-https://discuss.codecademy.com/t/find-your-hat-challenge-project-javascript/462380/147
-*/
